@@ -18,10 +18,9 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Jair Coronado</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Hi! My name is Jair. I was born and raised in San Antonio, Texas and I am a huge car/aviation enthusiast. I have very little JS experience so this should be fun!
             </div>
           </div>
         </div>
